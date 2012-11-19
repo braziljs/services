@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "name": "Rupy Brazil",
+      "website": "http://http://rupy.com.br/",
+      "thumbnail": "http://f.cl.ly/items/3D1F2K0K1k0H1y17422l/rupy.jpg",
+      "location": "São José dos Campos, SP",
+      "date": "2012-12-08",
+      "price": "R$ 99"
+    },
+    {
       "name": "FEEC BR",
       "website": "http://www.feecbr.com.br/pt/",
       "thumbnail": "http://braziljs.org/services/events/media/2012/feecbr.jpg",
@@ -8,6 +16,7 @@
       "date": "2012-12-01",
       "price": "R$ 135"
     },
+    
     {
       "name": "FrontInterior",
       "website": "http://frontinterior.com.br",
