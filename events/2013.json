@@ -65,6 +65,14 @@
       "price": "R$ 250"
     },
     {
+      "name": "Python Nordeste",
+      "website": "http://pythonnordeste.org/",
+      "thumbnail": "https://pyne2013.s3.amazonaws.com/img/pyne2013.png",
+      "location": "Fortaleza, CE",
+      "date": "2013-05-24",
+      "price": "R$ 75"
+    },
+    {
       "name": "FEEC Brazil",
       "website": "http://www.feecbr.com.br/",
       "thumbnail": "http://braziljs.org/services/events/media/2013/feec.png",
