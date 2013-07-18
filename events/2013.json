@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "name": "WordCamp Porto Alegre",
+      "website": "http://2013.portoalegre.wordcamp.org/",
+      "thumbnail": "http://braziljs.org/services/events/media/2013/wordcamp-poa.png",
+      "location": "Porto Alegre, RS",
+      "date": "2013-07-13",
+      "price": "R$ 50"
+    },
+    {
       "name": "BeagaJS",
       "website": "http://www.beagajs.com.br/2013/",
       "thumbnail": "http://braziljs.org/services/events/media/2013/beagajs.jpg",
